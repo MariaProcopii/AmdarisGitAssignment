@@ -4,6 +4,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World version 2!");
+        Console.WriteLine("Hello, World changed by user 2!");
     }
 }
